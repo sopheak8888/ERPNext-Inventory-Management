@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkerp_next_inventory_management=self.webpackChunkerp_next_inventory_management||[]).push([[858],{5516:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

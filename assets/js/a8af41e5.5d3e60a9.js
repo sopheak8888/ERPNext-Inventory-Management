@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkerp_next_inventory_management=self.webpackChunkerp_next_inventory_management||[]).push([[646],{7643:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/ERPNext-Inventory-Management/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

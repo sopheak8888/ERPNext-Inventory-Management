@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ERP Next Inventory Management Blog</title>
+        <link>https://your-docusaurus-site.example.com/ERPNext-Inventory-Management/blog</link>
+        <description>ERP Next Inventory Management Blog</description>
+        <lastBuildDate>Tue, 01 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://your-docusaurus-site.example.com/ERPNext-Inventory-Management/blog/welcome</link>
+            <guid>https://your-docusaurus-site.example.com/ERPNext-Inventory-Management/blog/welcome</guid>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to My ERPNext Inventory Management Documentation Project]]></description>
+            <content:encoded><![CDATA[<p><strong>Welcome to My ERPNext Inventory Management Documentation Project</strong></p>
+<p>Hello and welcome to my documentation project on ERPNext inventory management! My name is Lim Sopheak, and I'm a software engineer at Pathmazing. I'm currently pursuing my Master's degree in Data Science and Engineering, and I'm excited to share my knowledge and experience with you through this project.</p>
+<p>As a software engineer, I've had the opportunity to work on various projects, but I'm particularly excited about this one. ERPNext is a powerful enterprise resource planning (ERP) system that helps businesses manage their operations more efficiently. In this project, I'll be focusing on one of the most critical aspects of ERPNext: inventory management.</p>
+<p><strong>Why Inventory Management?</strong></p>
+<p>Inventory management is the backbone of any business that deals with physical products. It's essential to have a robust system in place to track inventory levels, manage stock movements, and optimize storage and shipping processes. ERPNext offers a comprehensive inventory management module that can help businesses streamline their operations and improve their bottom line.</p>
+<p><strong>What to Expect from This Project</strong></p>
+<p>In this project, I'll be creating detailed documentation on ERPNext inventory management, covering topics such as:</p>
+<ul>
+<li>Setting up and configuring the inventory management module</li>
+<li>Managing inventory items, warehouses, and stock movements</li>
+<li>Tracking inventory levels and optimizing stock levels</li>
+<li>Using reports and analytics to gain insights into inventory performance</li>
+</ul>
+<p>My goal is to provide a comprehensive resource that will help businesses get the most out of ERPNext's inventory management capabilities. Whether you're a business owner, a system administrator, or an end-user, I hope to provide you with the knowledge and expertise you need to succeed.</p>
+<p><strong>Stay Tuned!</strong></p>
+<p>I'll be regularly updating this blog with new articles, tutorials, and tips on ERPNext inventory management. If you have any questions or topics you'd like me to cover, please don't hesitate to reach out. Let's get started on this journey to mastering ERPNext inventory management!</p>
+<p>Best regards,
+Lim Sopheak</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

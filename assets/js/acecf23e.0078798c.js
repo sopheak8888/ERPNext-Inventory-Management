@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkerp_next_inventory_management=self.webpackChunkerp_next_inventory_management||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ERPNext-Inventory-Management/blog","blogTitle":"Blog","authorsListPath":"/ERPNext-Inventory-Management/blog/authors"}')}}]);

@@ -1,0 +1,1 @@
+(self.webpackChunkerp_next_inventory_management=self.webpackChunkerp_next_inventory_management||[]).push([[741],{5741:()=>{}}]);
