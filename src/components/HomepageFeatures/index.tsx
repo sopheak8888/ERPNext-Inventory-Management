@@ -10,32 +10,38 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: "Opensource",
+    Svg: require("@site/static/img/undraw_docusaurus_mountain.svg").default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        As an open-source ERP solution, offers several benefits. It provides
+        flexibility for customization, allowing businesses to tailor the
+        platform to their unique needs. With no licensing fees, it reduces costs
+        significantly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: "Backed by worldwide community",
+    Svg: require("@site/static/img/undraw_docusaurus_react.svg").default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Being backed by a worldwide community provides immense advantages.
+        Open-source projects, for instance, benefit from collective expertise,
+        with developers across the globe contributing to code improvements, bug
+        fixes, and feature enhancements.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: "Good UX/UI",
+    Svg: require("@site/static/img/undraw_docusaurus_tree.svg").default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        focuses on creating intuitive, seamless, and enjoyable experiences for
+        users. It ensures that navigation is simple, with clear visual hierarchy
+        and consistent design elements that guide users effortlessly through a
+        platform.
       </>
     ),
   },
